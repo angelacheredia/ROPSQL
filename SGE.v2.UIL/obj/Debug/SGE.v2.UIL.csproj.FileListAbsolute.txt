@@ -1,0 +1,2 @@
+C:\GitTest\ROPSQL\bin\SGE.v2.UIL.exe.config
+C:\GitTest\ROPSQL\SGE.v2.UIL\obj\Debug\ResolveAssemblyReference.cache

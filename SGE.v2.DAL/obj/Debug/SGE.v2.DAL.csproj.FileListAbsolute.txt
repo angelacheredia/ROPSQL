@@ -1,0 +1,3 @@
+C:\GitTest\ROPSQL\SGE.v2.DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\GitTest\ROPSQL\SGE.v2.DAL\obj\Debug\SGE.Conectividade.RepositorioSQL.resources
+C:\GitTest\ROPSQL\SGE.v2.DAL\obj\Debug\SGE.v2.DAL.csproj.GenerateResource.Cache
